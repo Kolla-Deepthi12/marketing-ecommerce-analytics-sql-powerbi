@@ -2,12 +2,12 @@ Marketing & E-Commerce Analytics
 
 (SQL + Power BI | Funnel, Campaign, A/B Testing, Customer Insights)
 
-Overview
+**Overview**
 
 This project dives into how users behave, where revenue leaks happen, and what actually moves conversion in an e-commerce setup.
 Instead of just tracking KPIs, the focus was on diagnosing problems and translating data into actions across marketing, product, and growth teams.
 
-Business Questions I Solved
+**Business Questions I Solved**
 
 Where exactly are users dropping off in the funnel — and why?
 
@@ -17,7 +17,7 @@ Do A/B experiments genuinely improve business outcomes?
 
 Which customers and product categories drive long-term revenue?
 
-Dataset Snapshot
+**Dataset Snapshot**
 
 Simulated multi-table e-commerce dataset
 
@@ -25,7 +25,7 @@ Simulated multi-table e-commerce dataset
 
 Tables: users, sessions, orders, campaigns, products, experiments
 
-Tools & Skills Used
+**Tools & Skills Used**
 
 SQL (MySQL): joins, CTEs, window functions, funnel logic, cohort-style analysis
 
@@ -33,8 +33,8 @@ Power BI: data modeling, DAX measures, interactive dashboards
 
 Analytics: funnel analysis, campaign performance, A/B testing, customer segmentation
 
-Key Insights (Problem-Solver View 🚀)
-🔻 Funnel & Drop-off Analysis
+**Key Insights (Problem-Solver View 🚀)**
+**🔻 Funnel & Drop-off Analysis**
 
 Only ~10% of users who viewed products ended up purchasing, with the largest drop happening between Add-to-Cart and Purchase.
 
@@ -44,7 +44,7 @@ Bounce rate stayed low (~11%), meaning interest exists — conversion is the rea
 
 👉 Insight: Fixing checkout friction would likely unlock more revenue than increasing traffic.
 
-📣 Campaign & Traffic Performance
+**📣 Campaign & Traffic Performance**
 
 Organic and Paid Search drove the highest traffic, but Direct traffic converted best, indicating stronger intent.
 
@@ -54,7 +54,7 @@ Some channels looked “successful” on orders but failed on AOV and retention 
 
 👉 Insight: Channel performance should be judged on value and conversion quality, not just traffic.
 
-🧪 A/B Test Performance
+**🧪 A/B Test Performance**
 
 Variant B showed a clear uplift in conversion rate (0.72 vs 0.63 control).
 
@@ -64,7 +64,7 @@ Mobile users benefited the most from experiment changes.
 
 👉 Insight: The experiment delivered real impact and is safe to roll out, especially for mobile users.
 
-👥 Customer & Product Insights
+**👥 Customer & Product Insights**
 
 Bronze tier customers formed the largest base, but Gold & Platinum users generated significantly higher revenue per user.
 
@@ -74,7 +74,7 @@ Loyalty upgrades correlated strongly with higher AOV and repeat purchases.
 
 👉 Insight: Retention and loyalty optimization will outperform aggressive discounting.
 
-Business Recommendations
+**Business Recommendations**
 
 Prioritize checkout optimization, especially on mobile (payment flow, form friction).
 
