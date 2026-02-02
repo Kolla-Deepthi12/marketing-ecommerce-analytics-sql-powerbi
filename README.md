@@ -21,12 +21,12 @@ End-to-end analytics project analyzing user behavior, marketing performance, fun
 ---
 
 ## Project Structure
-01_Business_Context/ → Business problem definition
-02_Dataset_Overview/ → Dataset description
-03_SQL_Analysis/ → SQL schema, cleaning, analysis, and views
-04_PowerBI_Dashboard/ → Power BI dashboard pages screenshots
-05_Key_Insights/ → Business insights derived from analysis
-06_Project_Summary/ → Problem-solving approach and conclusions
+01_Business_Context  → Business problem definition
+02_Dataset_Overview  → Dataset description
+03_SQL_Analysis      → SQL schema, cleaning, analysis, and views
+04_PowerBI_Dashboard → Power BI dashboard pages screenshots
+05_Key_Insights      → Business insights derived from analysis
+06_Project_Summary   → Problem-solving approach and conclusions
 
 ---
 
@@ -49,11 +49,8 @@ End-to-end analytics project analyzing user behavior, marketing performance, fun
 ---
 
 ## How to Use This Repository
-- Start with **01_Business_Context** to understand the problem
-- Review **03_SQL_Analysis** for analytical logic
-- Explore **04_PowerBI_Dashboard** for visual insights
-- Read **05_Key_Insights** for business conclusions
+- Start with **Business_Context** to understand the problem
+- Review **SQL_Analysis** for analytical logic
+- Explore **PowerBI_Dashboard** for visual insights
+- Read **Key_Insights** for business conclusions
 
----
-
-⚠️ Note: This dataset is synthetic and created for learning purposes.
