@@ -68,5 +68,10 @@ Instead of just reporting KPIs, the focus is on **diagnosing business problems a
 ---
 
 ## Business Recommendations
-- Prioritize **checkout optimization**, especially for mobile users (payment flow, form friction).
-- Shift marketing focus from pure acquisition to **hig**
+- Prioritize checkout optimization, especially on mobile (payment flow, form friction).
+
+- Shift marketing focus from pure acquisition to high-intent channels (Email, Direct).
+
+- Roll out Experiment Variant B, with special focus on mobile UX.
+
+- Design loyalty nudges to move Bronze → Silver, instead of chasing new low-value users.
